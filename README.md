@@ -33,4 +33,19 @@ The energy industry faces challenges in retaining customers, and predicting chur
 - refer to the file in folder 'business_understanding'
 
 ## Task 2: Exploratory Data Analysis
+
+### Churn
+- About 10% of the total customers have churned. (This sounds about right)
 ![Visualization 1](images/1-churn_percentage.png)
+
+### Sales channel
+-Interestingly, the churning customers are distributed over 5 different values for channel_sales. As well as this, the value of MISSING has a churn rate of 7.6%. MISSING indicates a missing value and was added by the team when they were cleaning the dataset. This feature could be an important feature when it comes to building our model.
+![Visualization 1](images/2-churn_by_sales_channel.png)
+
+### Consumption
+
+Let's see the distribution of the consumption in the last year and month. Since the consumption data is univariate, let's use histograms to visualize their distribution.
+![Visualization 1](images/3-Consumption_hist_1.png)
+![Visualization 1](images/4-Consumption_hist_2.png)
+![Visualization 1](images/5-Consumption_hist_3.png)
+![Visualization 1](images/6-Consumption_hist_4.png)
