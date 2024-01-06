@@ -154,6 +154,7 @@ Finally the number of months since a client last renewed a contract I believe wi
 #### has_gas
 
 We simply want to transform this column from being categorical to being a binary flag
+
 ![Visualization 1](images/28-hasgas.png)
 
 If a customer also buys gas from PowerCo, it shows that they have multiple products and are a loyal customer to the brand. Hence, it is no surprise that customers who do not buy gas are almost 2% more likely to churn than customers who also buy gas from PowerCo. Hence, this is a useful feature.
