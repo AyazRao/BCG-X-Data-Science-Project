@@ -228,7 +228,7 @@ I have removed two columns ('num_years_antig', 'forecast_cons_year') which exhib
 
 ---
 
-## 3. Modelling
+## Task 4: Modelling
 
 We now have a dataset containing features that we have engineered and we are ready to start training a predictive model. We, only need to focus on training a `Random Forest` classifier.
 
