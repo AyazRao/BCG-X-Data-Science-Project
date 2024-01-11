@@ -27,7 +27,7 @@ The energy industry faces challenges in retaining customers, and predicting chur
 1. **Clone the Repository:**
    ```bash
    git clone https://github.com/AyazRao/PowerCo-Churn-Predication-BCG-X-Data-Science-Project.git
-   cd energy-churn-prediction
+   cd PowerCo-Churn-Predication-BCG-X-Data-Science-Project
 
 ## Task 1: Business Understanding & Hypothesis Framing
 - refer to the file in folder 'business_understanding'
